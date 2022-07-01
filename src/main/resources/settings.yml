@@ -1,0 +1,28 @@
+vanilla-fish-threshold: 50
+
+rarities:
+
+  show-prefix: true
+
+  common:
+    chance: 100
+    glow: false
+    item-prefix: "&2&lCommon"
+  uncommon:
+    chance: 50
+    glow: false
+    item-prefix: "&a&lUncommon"
+  rare:
+    chance: 25
+    glow: false
+    item-prefix: "&9&lRare"
+  epic:
+    chance: 15
+    glow: true
+    item-prefix: "&d&lEpic"
+  legendary:
+    chance: 5
+    glow: true
+    item-prefix: "&e&lLegendary"
+
+Version: 1
