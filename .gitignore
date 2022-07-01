@@ -3,6 +3,7 @@
 #################
 
 # User-specific stuff
+templates/
 .idea/
 .idea_modules/
 *.iml
